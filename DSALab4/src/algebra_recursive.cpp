@@ -1,4 +1,4 @@
-#include "algebra.h"
+#include "../include/algebra.h"
 
 namespace recursive {
 	int sum_n(int n) {
